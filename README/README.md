@@ -30,7 +30,7 @@ This is a simple Java Swing application that displays a **rotating blue ball** i
 - Two buttons allow starting and stopping the rotation.
 
 ## 🖼 Screenshot (Example Output)
-![Rotating Ball Demo]("C:\Users\natho\Videos\ballrotation.mp4") 
+![Rotating Ball Demo]("C:\Users\natho\Downloads\ballrotation.png") 
 
 ## 🛠 Technologies Used
 - Java ☕
