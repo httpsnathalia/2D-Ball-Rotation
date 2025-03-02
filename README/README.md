@@ -13,7 +13,7 @@ This is a simple Java Swing application that displays a **rotating blue ball** i
 
 ### 1️⃣ Clone the repository
 ```bash
-  git clone https://github.com/httpsnathalia/rotating-ball.git
+  git clone https://github.com/httpsnathalia/2D-Ball-Rotation.git
   cd rotating-ball
 ```
 
